@@ -1,0 +1,48 @@
+* {
+    width: 600px;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    background-color: #000;
+    color: azure;
+    width: 90%;
+}
+
+h3 {
+    width: 85%;
+}
+
+img {
+    border: solid #000 2px;
+    border-radius: 20px;
+}
+
+.unordered li {
+    background-color: #483232;
+    color: #F03931;
+}
+
+.ordered li {
+    font-stretch: extra-expanded;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: blue;
+}
+
+li {
+    width: 65%;
+}
+
+#ingredients {
+    border:#000 1px dotted;
+    border-radius: 5px;
+    width: 80%;
+}
+
+#steps {
+    border: #ff0000 1px dotted;
+    border-radius: 5px;
+    width: 80%;
+    background-color: green;
+}
